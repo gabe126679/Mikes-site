@@ -24,11 +24,11 @@ function App() {
             element={<PageAbout />}
           />
           <Route
-            path="contact"
+            path="/contact"
             element={<PageContact />}
           />
           <Route
-            path="Appointments"
+            path="/Appointments"
             element={<Appointments />}
           />
         </Routes>
