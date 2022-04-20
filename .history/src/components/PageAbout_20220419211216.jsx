@@ -2,6 +2,7 @@ import React from 'react';
 import ImageOne from '../images/home-1.jpg';
 import styled from 'styled-components';
 import Navbar from "./Navbar";
+
 import Footer from "./Footer";
 import Howitworks from "./Howitworks";
 import { Link } from 'react-router-dom';
