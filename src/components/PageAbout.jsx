@@ -127,15 +127,15 @@ function PageAbout() {
                 <h1 >Maryland Wholesale Real Estate</h1>
                 <h2 >Summary</h2>
                 <p>
-                    I've been caring for animals my entire life, and I've been a professional animal caretaker for over 6 years. My experience with pets of all kinds takes me above and beyond the love of what I do and provides me with a true purpose for providing pets with the most accommodating attention each animal needs and deserves. 
+                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
                 </p>
                 <h2 >Origins</h2>
                 <p>
-                    Growing up on a farm, I developed a unique relationship with many animals, and I naturally learned everything about how to service and comfort animals and to help them thrive in the most suitable environment. I currently work as a veterinary technician, as I've done for the past 6 years and I absolutely LOVE my job.
+                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
                 </p>
                 <h2 >Services</h2>
                 <p>
-                    I offer pet walking, sitting, medical administration and a wide range of other services. Most importantly, what I provide is quintissential information regarding pets needs based on my experience treating animals with the best care and attention.
+                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
                 </p>
                 <h3 >We look forward to collaborating with you</h3>
                 <br/>

@@ -6,7 +6,7 @@ function About() {
   return (
     <div className="about">
         <div className="about-model">
-          <img src={aboutimage} alt="#" />
+          <img className="about-img" src={aboutimage} alt="#" />
         </div>
         <div className="about-text">
           <h2>Best in Your Area <br/>Wholesale Real Estate</h2>
