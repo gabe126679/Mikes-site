@@ -40,8 +40,13 @@ return (
         <div className="row">
           <p className="disclaimer">
             &copy;{new Date().getFullYear()} MFM Investments LLC | All rights reserved |
-            Developed by Parallel Innovations
+            Developed by <button className="header-btn" onClick={
+              () => {
+                window.location.href = "https://parallelinnovations.dev/"
+              }
+            }>Parallel Innovations</button>
           </p>
+
         </div>
         <br/>
       </div>

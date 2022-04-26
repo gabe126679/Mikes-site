@@ -3,6 +3,7 @@ import PageAbout from './components/PageAbout'
 import Appointments from './components/Appointments'
 import PageContact from './components/PageContact'
 import All from './components/All'
+import Map from './components/Map'
 import {
 
   Routes,
@@ -30,6 +31,10 @@ function App() {
           <Route
             path="Appointments"
             element={<Appointments />}
+          />
+          <Route
+            path="map"
+            element={<Map />}
           />
         </Routes>
 

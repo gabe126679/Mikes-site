@@ -38,10 +38,16 @@ function Contact() {
         </div>
         <hr />
         <div className="row">
+          <div className="col-sm">
           <p className="col-sm">
             &copy;{new Date().getFullYear()} MFM Investments LLC | All rights reserved |
-            Developed by Parallel Innovations
+            Developed by <a onClick={
+              () => {
+                window.location.href = "https://parallelinnovations.dev/"
+              }
+            }>Parallel Innovations</a>
           </p>
+          </div>
         </div>
         <br/>
       </div>

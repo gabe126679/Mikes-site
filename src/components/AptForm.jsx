@@ -95,7 +95,7 @@ function AptForm() {
                     </li>
 
                     <li><i className="fas fa-phone mt-4 fa-2x"></i>
-                        <p>+301-861-9588</p>
+                        <p><a href="tel:301-861-9589">+301-861-9588</a></p>
                     </li>
 
                     <li><i className="fas fa-envelope mt-4 fa-2x"></i>
