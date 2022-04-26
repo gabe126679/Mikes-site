@@ -41,7 +41,7 @@ function Contact() {
           <div className="col-sm">
           <p className="col-sm">
             &copy;{new Date().getFullYear()} MFM Investments LLC | All rights reserved |
-            Developed by <a href="#" onClick={
+            Developed by <a href="https://parallelinnovations.dev/" onClick={
               () => {
                 window.location.href = "https://parallelinnovations.dev/"
               }
