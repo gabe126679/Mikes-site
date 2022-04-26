@@ -9,7 +9,7 @@ function Howitworks() {
                 <div>
                     <span className="fas fa-home"></span>
                     <h4>List your Property</h4>
-                    <p>We perform a detailed analysis of your propertie's most desirable aspects</p>
+                    <p>We perform a detailed analysis of your property's most desirable aspects</p>
                 </div>
 
                 <div>
