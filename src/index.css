@@ -114,14 +114,11 @@ nav .menu-btn,
 .intro span{
     color: #fc9700;
 }
-.text-color {
-    background-color: #1e4f5c;
-    background: -webkit-linear-gradient(left, #1e4f5c, rgb(180, 160, 145));
-}
+
 .intro .details{
     margin: 1px;
     color: #000;
-    background: -webkit-linear-gradient(left, rgb(212, 181, 80), rgb(255, 255, 255));
+    background: -webkit-linear-gradient(left, rgb(212, 181, 80), rgb(0, 0, 0));
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     -webkit-animation: glow 1s ease-in-out infinite alternate;
