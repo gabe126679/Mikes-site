@@ -6,6 +6,7 @@ import {
   // InfoWindow,
 } from "@react-google-maps/api";
 import mapStyles from "./mapStyles";
+import env from "react-dotenv";
 
 
 
@@ -36,7 +37,7 @@ const center = {
 
 function Map() {
 
-  const googleMapsApiKey = process.env.REACT_APP_GOOGLE_MAP_API_KEY;
+  const googleMapsApiKey = env.API_KEY;
 
   const { isLoaded, loadError } = useLoadScript({
     googleMapsApiKey,
